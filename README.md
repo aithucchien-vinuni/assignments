@@ -11,23 +11,23 @@
 
 ## Cấu Trúc Chương Trình
 
-| Ngày | Chủ Đề | Kỹ Năng Chính |
-|------|--------|---------------|
-| 01 | Nền Tảng LLM API | OpenAI API, streaming, so sánh model, chi phí |
-| 02 | Prompt Engineering | System prompt, few-shot, chain-of-thought |
-| 03 | RAG Cơ Bản | Embedding, vector store, retrieval |
-| 04 | RAG Nâng Cao | Reranking, hybrid search, evaluation |
-| 05 | Tool Use & Function Calling | Tool schema, parallel calls, error handling |
-| 06 | Xây Dựng Agent | ReAct loop, memory, planning |
-| 07 | Multi-Agent Systems | Orchestration, communication, handoff |
-| 08 | Evaluation & Testing | LLM-as-judge, benchmark, regression test |
-| 09 | Tối Ưu Chi Phí & Latency | Caching, batching, model routing |
-| 10 | Fine-tuning | Dataset curation, LoRA, evaluation |
-| 11 | Triển Khai Production | FastAPI, Docker, logging, monitoring |
-| 12 | Bảo Mật & An Toàn | Prompt injection, guardrails, PII |
-| 13 | Voice & Multimodal | Whisper, vision, audio pipeline |
-| 14 | Dự Án Tích Hợp | End-to-end product sprint |
-| 15 | Demo & Review | Presentation, code review, feedback |
+| Ngày | Chủ Đề | Vibe Coding + LAB | Kỹ Năng Chính |
+|------|--------|-------------------|---------------|
+| 01 | AI & LLM Foundation | Vibe Coding 1: Setup & Foundation + LAB 1: LLM API Exploration | Cấu trúc Transformer, Tokenization, Gọi API đầu tiên |
+| 02 | Xác định Bài toán Kinh doanh cho AI | Vibe Coding 2: AI-powered Business Analysis + LAB 2: Problem Statement & Use Case Mapping | AI Readiness, ROI, Problem Statement |
+| 03 | Design Pattern ReAct | Vibe Coding 3: Agent Loop Prototyping + LAB 3: Chatbot vs Agent: Hands-on Comparison | Kiến trúc Agent, Agent Loop, Thought-Action-Obs |
+| 04 | Prompt Engineering & Tool Calling | Vibe Coding 4: Tool Development with AI + LAB 4: Build First AI Agent - ReAct + Tools | System prompt, Function calling, LangGraph |
+| 05 | AI Product Thinking & Requirements | Vibe Coding 5: PRD Generation & Risk Analysis + LAB 5: PRD Writing & Risks Assessment | PRD cho AI, Risk Assessment |
+| 06 | AI Product & Project Management | Vibe Coding 6: Business Document Generation + LAB 6: Final PRD and ROI Analysis | Agile cho AI, MVP, Low-code tools |
+| 07 | Data Foundations | Vibe Coding 7: Data Processing Pipeline + LAB 7: Vector Store Integration | Embedding, Chunking, Vector Store — ChromaDB/FAISS |
+| 08 | RAG Pipeline — Truy Xuất & Sinh Câu Trả Lời | Vibe Coding 8: RAG Pipeline Building + LAB 8: Full RAG Pipeline | Hybrid search, Re-ranking, RAG evaluation |
+| 09 | Multi-Agent & MCP/A2A | Vibe Coding 9: Multi-agent Architecture + LAB 9: Supervisor Pattern + MCP Integration | Supervisor pattern, Agent-to-Agent communication |
+| 10 | Data Pipeline & Data Observability | Vibe Coding 10: ETL Automation + LAB 10: Data Quality Impact on Agent | Garbage in → garbage out — fix thế nào? |
+| 11 | Guardrails, HITL & Responsible AI | Vibe Coding 11: Security Testing and Protection + LAB 11: Attack, Defend, and Human Control | Làm sao để ứng dụng agent an toàn? |
+| 12 | Hạ Tầng Cloud & Deployment | Vibe Coding 12: Containerization & CI/CD + LAB 12: Docker → Cloud → API Live | Agent ra khỏi laptop — deploy thế nào? |
+| 13 | Monitoring & LLMOps | Vibe Coding 13: Observability Setup + LAB 13: Production Monitoring & Prompt Versioning | Agent chạy rồi — sao biết nó ổn? |
+| 14 | Evaluation Pipeline & Failure Analysis | Vibe Coding 14: Automated Eval Pipeline + LAB 14: Benchmark, Evaluate, and Improve | Đo agent tốt hay không tốt bằng gì? |
+| 15 | Triển Khai Agent Thực Tế, Chi Phí Vận Hành & Định Hướng Chuyên Sâu | Vibe Coding 15: Cost Optimization & Portfolio + LAB 15: Cost Analysis & Final Presentation | Cost optimization, portfolio review |
 
 ---
 
